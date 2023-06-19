@@ -4,7 +4,7 @@
 
 💼 I'm actively seeking new opportunities to apply my expertise and collaborate with other talented developers. If you have an interesting project or are looking to add a dedicated Full Stack Developer to your team, I'd be thrilled to discuss potential collaborations.
 
-📫 Feel free to reach out to me via email at mehdimaanz@gmail.com or connect with me on LinkedIn: Mehdi Abdolnabi Zadeh. I'm excited to explore new opportunities and contribute my skills to impactful projects.
+📫 Feel free to reach out to me via email at mehdimaanz@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mehdi-abdolnabi-zadeh-92497939/). I'm excited to explore new opportunities and contribute my skills to impactful projects.
 
 Thank you for your consideration, and I'm looking forward to connecting with you soon!
 
