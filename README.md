@@ -6,6 +6,6 @@ I'm always eager to learn and stay updated with the latest industry trends, ensu
 
 Currently, I'm actively seeking new opportunities to collaborate with talented teams and contribute my skills to impactful projects. If you're looking for a Full Stack Developer who is passionate about delivering high-quality work, I'd love to discuss how I can contribute to your organization. 💪
 
-Feel free to reach out to me via email at mehdimaanz@gmail.com 📫 or connect with me on LinkedIn. I'm excited about the possibility of working together and leveraging my skills to help your business succeed.
+Feel free to reach out to me via email at mehdimaanz@gmail.com 📫 or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). I'm excited about the possibility of working together and leveraging my skills to help your business succeed.
 
 Thank you for considering my profile, and I'm looking forward to the opportunity of working on meaningful projects with you in the future! ✨
