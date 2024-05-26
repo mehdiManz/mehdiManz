@@ -21,6 +21,9 @@
 - Passion for exploring culinary arts and international trade
 - Effective team player with a knack for task management
 
+🔗 **Personal Portfolio**: 
+- Check out my portfolio: [Mehdi's Portfolio](https://mehdimanz.github.io/My-Portfolio/)
+
 📧 **Get in Touch**: 
 - Reach out via email at mehdimaanz@gmail.com
 - Let's connect and discuss potential collaborations!
