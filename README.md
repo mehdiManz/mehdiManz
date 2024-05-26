@@ -22,7 +22,7 @@
 - Effective team player with a knack for task management
 
 🔗 **Personal Portfolio**: 
-- Check out my portfolio: [Mehdi's Portfolio](https://mehdimanz.github.io/My-Portfolio/)
+- Check out my portfolio: [Mehdi's Portfolio](https://mehdimanz.github.io/My-Portfolio/#my-name)
 
 📧 **Get in Touch**: 
 - Reach out via email at mehdimaanz@gmail.com
