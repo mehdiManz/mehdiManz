@@ -14,12 +14,17 @@
 - Certificates in web development and JavaScript
 
 🌟 **Key Highlights**: 
+- Demonstrated expertise in efficiently diagnosing and resolving hardware, software, and network issues, minimizing downtime.
+- Proficient in installing, configuring, and maintaining computer systems and peripheral devices.
+- A self-starter with high integrity, effective time management skills, and a proven ability to provide professional onsite technical service.
+- Proven ability to diffuse tense customer situations and project a professional outlook.
 - Versatile Full Stack Developer with expertise in various programming languages and frameworks
 - Dedicated to building user-friendly applications and websites
 
 🔍 **Interests & Background**: 
-- Passion for exploring culinary arts and international trade
-- Effective team player with a knack for task management
+- Passionate about exploring culinary arts and international trade
+- An effective team player with a knack for task management and time efficiency
+- Committed to continuous learning and staying updated with the latest tech trends
 
 🔗 **Personal Portfolio**: 
 - Check out my portfolio: [Mehdi's Portfolio](https://mehdimanz.github.io/My-Portfolio/#my-name)
@@ -29,4 +34,3 @@
 - Let's connect and discuss potential collaborations!
 
 Thanks for checking out my profile! ✨
-
