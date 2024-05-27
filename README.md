@@ -27,10 +27,11 @@
 - Committed to continuous learning and staying updated with the latest tech trends
 
 🔗 **Personal Portfolio**: 
-- Check out my portfolio: [Mehdi's Portfolio](mehdimanz.github.io/My-Portfolio/)
+- Check out my portfolio: [Mehdi's Portfolio](https://mehdimanz.github.io/My-Portfolio/)
 
 📧 **Get in Touch**: 
 - Reach out via email at mehdimaanz@gmail.com
 - Let's connect and discuss potential collaborations!
 
 Thanks for checking out my profile! ✨
+
